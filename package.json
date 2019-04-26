@@ -1,4 +1,17 @@
 {
     "name": "text-abstract",
-    "version": "1.0.0"
-}
+    "version": "1.0.0",
+    "description": "Change veryLongStrings to veryLon...",
+    "license": "MIT",
+    "repository": "21x37/text-abstract",
+    "main": "textAbstract.js",
+    "keywords": [
+      "text",
+      "abstract",
+      "shorten",
+      "sesquipedalian",
+      "clipping",
+      "period",
+      "21x37"
+    ]
+  }
